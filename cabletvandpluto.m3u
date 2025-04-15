@@ -256,7 +256,7 @@ https://ott-sg.djdoolky76.net/stream/udptv/travelchannel/master.m3u8?u=udpteam@d
 #EXTINF:-1 tvg-id="phcathenatv/truefmtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="🇵🇭 PH CableTV",True FM TV
 http://ott.udptv.net/stream/iptv/truefmtv/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1 tvg-id="phcathenatv/tv5" tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="🇵🇭 PH CableTV",TV5
-http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/tv5_hd.mpd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GxCFCM2.jpg" group-title="🇵🇭 PH CableTV",TVN
 http://ott.udptv.net/stream/iptv/tvn/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9fKNEHY.png" group-title="🇵🇭 PH CableTV",TVN MOVIES PINOY
