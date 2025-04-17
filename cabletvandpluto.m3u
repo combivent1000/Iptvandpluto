@@ -136,7 +136,7 @@ http://ott.udptv.net/stream/iptv/jeepneytv/master.m3u8?u=udpteam@djdoolky76&p=3a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWCWUX2.png" group-title="🇵🇭 PH CableTV",JUNGO PINOY TV
 http://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
 #EXTINF:-1 tvg-id="phcathenatv/kapamilyachannel" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="🇵🇭 PH CableTV",Kapamilya Channel
-http://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=udpteam@djdoolky76&p=3a35aa73dc4c1efbd166d75276a463e549ce3195c6d340d68b807dbc6da16ba8
+http://93.119.105.61/play/live.php?mac=00:1a:79:b5:ba:d2&stream=440647&extension=m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://go4.pw/ASIA/kapatid.png" group-title="🇵🇭 PH CableTV",Kapatid tv5
 https://premiumtvs.net:443/live/17161716/17161716/151029.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="🇵🇭 PH CableTV",KBS WORLD
